@@ -1,6 +1,6 @@
 ## Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Melis Alpas
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/melis-alpas-52555817a/)         [![Website](https://img.shields.io/badge/-Website-green?style=for-the-badge&logo=google-chrome&logoColor=white)](https://YOUR-WEBSITE-URL)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/melis-alpas-52555817a/)         [![Website](https://img.shields.io/badge/-Website-green?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.melisalpas.com)
  
 
 
